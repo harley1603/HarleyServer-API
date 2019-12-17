@@ -1,0 +1,14 @@
+{
+    "firebase": {
+        "type": "service_account",
+        "project_id": "harleys-server",
+        "private_key_id": "f98506e1144011990c6a779985b9917c2dd3bc39",
+        "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrX7o3FpFZUaZ/\nc9H4lTAYNKbOwyv2jzkcWpP8rMbLQ612XauUakQfMLSib7Bt1bmJ3KGhkg8J3A81\nVrxxRY+L1z6o5hEJ92wWEe0YzGk0xv8c2PPOWpfB8FoRTIVs2FJnBCsJORt+532h\nkFHVZ3ej//VMRzgzEh/dAdFrovRxY5mY56XInEMdp1YWtSjRfrTrWPpEPB703iDi\n6lMgP1MhsCkEPIcQL8wHN9YGPiZDxBosNh5Wf1U2eG1rQszaaj2IWxEId0Ffp9AZ\nK+FbQ+N6gCC8z/2cMqQr3tO5sC0VugcdjgigvBQlXm+L1dpbmJHZLbdXmY7ad4oq\nWkpUkxeXAgMBAAECggEADfJHzKavUQ4eNzsThSzAi24lfdtP3zKl2pMO5HFvHPWd\nNTr6qD5c3HW+c+wUKiwXFSTgABUYPwL3BEefWE+2Sd9MP+4d+6pBOpHE5ZxYNEcj\nIpOpUhhfR0iQtXdKJTx8udnflev21KukHRs9ZAxijFv1K3r6raiCih4IW/KyYyCU\nlrGQvRE6kvVFPQhVTwi/YlfQvQ3evU2hbSoGKFeFPeWJB3WrE6Rr5F6G2oBrfJGo\n+Q9Z9v3lDFrPGjnmY6NXCDDENbTuRHihDmii4HTMvOoEn5NQvOPDRZgy3ZWaHwh9\nCDfcBDJurbncHlkvWHY+E4SGTmyCxzWs5fz4THAZOQKBgQDqiUQ8IOrjqVFh5pLi\n1YxYfI1Ik7msA3ED5pOtKN0QgDf/P2RACciUMHCitnycikkloQXylFtZ7YaZ0MgL\n6JMG0kdq2su7u66MtUGLJfth+GlaozxjyZ6oun9HdRW1j9mESaYzQeTo2+K3JxjH\n+mCEmib7uuvQWEPB+m7Gg9XXtQKBgQC7DrCtnuG5uQVQpizkxwAsplwcXCoj12IY\nj3a8H99UC0o7Nk+Mpct99Pp7XewCJ9LpgfdgeVn1tH1FjWUOpisQt9872LuuC9vk\nHohYv2cSeuaYU/dKSY3b/HF8ugG1YgVfF4XTnt6Or6rYDbN6HSMeDEMYgzWaAQr8\npcFWpcepmwKBgQDUIGD57V/ll3/HB2+1ACaW5dg3W31kihxOxd6tkDcZtI5xK1m1\n3eNvvLwzPtBIGX79LL2fYPWayY2jU0WMF8fbNJdpmwkH/EFsfIgSncDXJIHNe7Sk\nIHiC7WMvM0P2WmwHDUHoPGIZBr/wncj5Hojrhi1aIv8kCqEGMka9AAKKvQKBgHTq\nL5+1CJzOefX4h2LOxtshd7z6FhSk0FlNggb/XNTo4ZK01W+xSMkHT2/AOnz2aysr\n4nRYJNQf5ZSNVbacQZqHcm2zf0q/esbQFqRxrXitfGeFQ7EY3CO9Wyl8EQlPpM/U\nof6s86n3Pi8gESeoAoULYPx3Ng91y2oyJ++CWpM1AoGBAIbN2+7xpmgE7H0q7uR3\nVPa9U3Sud8GTrKfQ6+0BjNCsO7pSXYLb75gOPnWzcGI7vwANObdG2MWlLCy0csS+\nUFhlrKNX0aJU3aECLR/LvsuS8I+y9P4wf829tD38NJts3RD/Zw5koD/JjV9tyAvv\nekmC//HdQjXe50z7UAfulIW0\n-----END PRIVATE KEY-----\n",
+        "client_email": "firebase-adminsdk-oko02@harleys-server.iam.gserviceaccount.com",
+        "client_id": "107834499327204300246",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-oko02%40harleys-server.iam.gserviceaccount.com"
+      }
+}
